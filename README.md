@@ -26,6 +26,8 @@ For each section of the email, please refer to the respective HTML files:
 
 ![View Certificate](/screenshots/view-certificate.png)
 
+> **Reminder**: Update the `href` link according to the payload returned by the `api-notarise-healthcerts` endpoint.
+
 File: [view-certificate.html](view-certificate.html)
 
 ### Pre-Departure Test QR Codes
@@ -40,6 +42,14 @@ File: [view-certificate.html](view-certificate.html)
 
 File: [pdt-qr-codes.html](pdt-qr-codes.html)
 
+### Google Pay COVID Card
+
+![Google Pay COVID Card](/screenshots/gpay-covid-card.png)
+
+> **Reminder**: Update the `href` link according to the payload returned by the `api-notarise-healthcerts` endpoint.
+
+File: [gpay-covid-card.html](gpay-covid-card.html)
+
 ### Vaccination QR Codes
 
 | Desktop                                                          | Mobile                                                         |
@@ -49,9 +59,3 @@ File: [pdt-qr-codes.html](pdt-qr-codes.html)
 > **Media Query Required**: The table columns in the offline QR section requires a `@media` query for the columns be responsive. Remember to place it in the `<head></head>` of the HTML.
 
 File: [vac-qr-codes.html](vac-qr-codes.html)
-
-### Google Pay COVID Card
-
-![Google Pay COVID Card](/screenshots/gpay-covid-card.png)
-
-File: [gpay-covid-card.html](gpay-covid-card.html)
