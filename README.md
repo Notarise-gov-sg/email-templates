@@ -21,6 +21,7 @@ Read more: <https://mailtrap.io/blog/embedding-images-in-html-email-have-the-rul
 ## Respective Sections
 
 For each section of the email, please refer to the respective HTML files:
+<br/><br/>
 
 ### View Certificate
 
@@ -29,18 +30,16 @@ For each section of the email, please refer to the respective HTML files:
 > **Reminder**: Update the `href` link according to the payload returned by the `api-notarise-healthcerts` endpoint.
 
 File: [view-certificate.html](view-certificate.html)
+<br/><br/>
 
 ### Pre-Departure Test QR Codes
 
-| Desktop                                                          | Mobile                                                         |
-| ---------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![PDT QR Codes (Desktop)](/screenshots/pdt-qr-codes-desktop.png) | ![PDT QR Codes (Mobile)](/screenshots/pdt-qr-codes-mobile.png) |
+ ![PDT QR Codes (Mobile)](/screenshots/pdt-qr-codes-mobile.png) 
 
-> **Important**: The online QR section is semantically defined in a reverse column order (when viewed on a large viewport). When viewing in a smaller viewport, the order of the column will be reverted to follow the same order as the offline QR section.
-
-> **Media Query Required**: The table columns in the offline QR section requires a `@media` query for the columns be responsive. Remember to place it in the `<head></head>` of the HTML.
 
 File: [pdt-qr-codes.html](pdt-qr-codes.html)
+
+<br/><br/>
 
 ### Google Pay COVID Card
 
@@ -50,12 +49,11 @@ File: [pdt-qr-codes.html](pdt-qr-codes.html)
 
 File: [gpay-covid-card.html](gpay-covid-card.html)
 
+<br/><br/>
+
 ### Vaccination QR Codes
 
-| Desktop                                                          | Mobile                                                         |
-| ---------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![VAC QR Codes (Desktop)](/screenshots/vac-qr-codes-desktop.png) | ![VAC QR Codes (Mobile)](/screenshots/vac-qr-codes-mobile.png) |
+![VAC QR Codes (Mobile)](/screenshots/vac-qr-codes-mobile.png) 
 
-> **Media Query Required**: The table columns in the offline QR section requires a `@media` query for the columns be responsive. Remember to place it in the `<head></head>` of the HTML.
 
 File: [vac-qr-codes.html](vac-qr-codes.html)
