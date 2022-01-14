@@ -24,11 +24,10 @@ For each section of the email, please refer to the respective HTML files:
 <br/><br/>
 
 ### Advisory Note
-Include this note in the email message to remind users to only share the email for relevant purposes only. 
 
 `(Please ensure that the content of this email is shared with others for relevant purposes.)`
-##### Recommended styling 
-`font-size: 14px, font-style: italic`
+
+Include this copy (in small and italics) in the email message to remind users to only share the email for relevant purposes only. 
 
 ### View Certificate
 
