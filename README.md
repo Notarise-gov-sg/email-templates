@@ -23,6 +23,12 @@ Read more: <https://mailtrap.io/blog/embedding-images-in-html-email-have-the-rul
 For each section of the email, please refer to the respective HTML files:
 <br/><br/>
 
+### Advisory Note
+
+`(Please ensure that the content of this email is only shared with others for relevant purposes.)`
+
+Include this copy (in small and italics) in the email message to remind users to only share the email for relevant purposes only.
+
 ### View Certificate
 
 ![View Certificate](/screenshots/view-certificate.png)
@@ -34,8 +40,7 @@ File: [view-certificate.html](view-certificate.html)
 
 ### Pre-Departure Test QR Codes
 
- ![PDT QR Codes (Mobile)](/screenshots/pdt-qr-codes-mobile.png) 
-
+![PDT QR Codes (Mobile)](/screenshots/pdt-qr-codes-mobile.png)
 
 File: [pdt-qr-codes.html](pdt-qr-codes.html)
 
@@ -53,7 +58,6 @@ File: [gpay-covid-card.html](gpay-covid-card.html)
 
 ### Vaccination QR Codes
 
-![VAC QR Codes (Mobile)](/screenshots/vac-qr-codes-mobile.png) 
-
+![VAC QR Codes (Mobile)](/screenshots/vac-qr-codes-mobile.png)
 
 File: [vac-qr-codes.html](vac-qr-codes.html)
