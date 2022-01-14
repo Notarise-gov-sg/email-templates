@@ -23,6 +23,13 @@ Read more: <https://mailtrap.io/blog/embedding-images-in-html-email-have-the-rul
 For each section of the email, please refer to the respective HTML files:
 <br/><br/>
 
+### Advisory Note
+Include this note in the email message to remind users to only share the email for relevant purposes only. 
+
+`(Please ensure that the content of this email is shared with others for relevant purposes.)`
+##### Recommended styling 
+`font-size: 14px, font-style: italic`
+
 ### View Certificate
 
 ![View Certificate](/screenshots/view-certificate.png)
